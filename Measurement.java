@@ -11,8 +11,6 @@ private double duration = 0.0;
 		this.duration = duration;
 	}
 	
-	
-	
 	public String getName() {
 		return name;
 	}
